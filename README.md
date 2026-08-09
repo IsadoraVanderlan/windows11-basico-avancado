@@ -17,7 +17,7 @@ Este repositório foi criado para documentar todo o meu progresso, anotações e
 |  03  | Conhecendo o Gerenciador de Arquivos (Diretórios e Pastas) |   ❌   |     [Ver Resumo](./anotacoes/aula-03-gerenciador.md)     |
 |  04  | Configurações da Barra de Tarefas                          |   ❌   |    [Ver Resumo](./anotacoes/aula-04-barra-tarefas.md)    |
 |  05  | Instalar, Atualizar e Remover Aplicativo (Programa)        |   ❌   |      [Ver Resumo](./anotacoes/aula-05-programas.md)      |
-|  06  | Configurações do Sistema (Vídeo, Som, Hora e Idioma)       |   ❌   |    [Ver Resumo](./anotacoes/aula-06-configuracoes.md)    |
+|  06  | Configurações do Sistema (Vídeo, Som, Hora e Idioma)       |   ❌   |   [Ver Resumo](./anotacoes/aula-06-configuracooes.md)    |
 |  07  | Prompt de Comando \| PowerShell \| Terminal                |   ❌   |      [Ver Resumo](./anotacoes/aula-07-terminal.md)       |
 |  08  | Windows Update \| Atualização do Sistema Operacional       |   ❌   |   [Ver Resumo](./anotacoes/aula-08-windows-update.md)    |
 |  09  | Contas de Usuário                                          |   ❌   |      [Ver Resumo](./anotacoes/aula-09-usuarios.md)       |
