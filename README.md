@@ -32,7 +32,7 @@ Este repositório foi criado para documentar todo o meu progresso, anotações e
 |  18  | Solução de Problemas (Restauração do Sistema)              |   ❌   |  [Ver Resumo](anotacoes/aula-18-solucao-problemas.md)  |
 
 <br/>
- Legenda de Status: ❌ Não Iniciado | ⏳ Em Andamento | ✅ Concluído_
+  Legenda de Status: ❌ Não Iniciado | ⏳ Em Andamento | ✅ Concluído_
 
 ---
 
